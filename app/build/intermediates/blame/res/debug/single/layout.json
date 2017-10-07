@@ -1,0 +1,866 @@
+[
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_brand.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_brand.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_no_address.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_no_address.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_walk_pager.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_walk_pager.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_user.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_chat_user.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_simple_loading.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\ptr-lib\\build\\intermediates\\bundles\\default\\res\\layout\\cube_ptr_simple_loading.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_survey_radio.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_survey_radio.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\4ddb147b6ce58e547940c81cd7cace9c015455ec\\output\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\4ddb147b6ce58e547940c81cd7cace9c015455ec\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_survey_check.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_survey_check.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotline_partial_category_list_empty_frame.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\layout\\hotline_partial_category_list_empty_frame.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_survey_radio.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_survey_radio.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\56d5296dbea9857741a6f9f66c6f24d456289154\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_group_camera.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_group_camera.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_card.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_card.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotline_listitem_category_for_grid.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\layout\\hotline_listitem_category_for_grid.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_categorydetail2.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_categorydetail2.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_order_payment.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_order_payment.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_time_range.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_time_range.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\56d5296dbea9857741a6f9f66c6f24d456289154\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_notification.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_notification.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_check.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_order_check.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_update_profile.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_update_profile.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_survey_video.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_survey_video.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotline_listitem_category.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\layout\\hotline_listitem_category.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_submit.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_submit.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_action_item_badge.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\ae818e4f2d377b884ea50a40e4f9cbdce1624c5a\\output\\res\\layout\\menu_action_item_badge.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_notify.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_notify.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_no_bank.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_no_bank.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragmen_signup.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragmen_signup.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotline_partial_channel_list_empty_frame.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\layout\\hotline_partial_channel_list_empty_frame.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\multiple_options.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\multiple_options.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_history_item.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_history_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline_redeem.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\activity_offline_redeem.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_survey_data.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_survey_data.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotline_custom_html5_webview.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\layout\\hotline_custom_html5_webview.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotline_partial_voice_message_frame.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\layout\\hotline_partial_voice_message_frame.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\4ddb147b6ce58e547940c81cd7cace9c015455ec\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chat_category.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_chat_category.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_walk1_item.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_walk1_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actvity_check.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\actvity_check.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_survey_choose_image.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_survey_choose_image.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_order_address.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_order_address.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_badge.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\menu_badge.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actvity_notification.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\actvity_notification.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotline_toolbar.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\layout\\hotline_toolbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_filter.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_filter.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_survey_image.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_survey_image.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_product_store.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_product_store.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_badge_large.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\menu_badge_large.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_search.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_bank_account1.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_bank_account1.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_survey_image_data.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_survey_image_data.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_success.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_success.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_dialog.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_account.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_filter.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_filter.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_notification_list.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_notification_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_unlocked.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_unlocked.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_history_detail_2.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_order_history_detail_2.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotline_activity_picture_attachment.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\layout\\hotline_activity_picture_attachment.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\activity_task.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_product.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_product.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_address_list.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_address_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\4ddb147b6ce58e547940c81cd7cace9c015455ec\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_profile.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\onesignal_bgimage_notif_layout.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\4ab36295ef672464dbb68fa918352b88e108062e\\output\\res\\layout\\onesignal_bgimage_notif_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_walk2_item.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_walk2_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actvity_order.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\actvity_order.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_survey_checkbox.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_survey_checkbox.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_camera.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_list.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_conversation_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actvity_suppports.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\actvity_suppports.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_admin.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_chat_admin.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_action_item_badge_large.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\ae818e4f2d377b884ea50a40e4f9cbdce1624c5a\\output\\res\\layout\\menu_action_item_badge_large.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_products.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\activity_products.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\4ddb147b6ce58e547940c81cd7cace9c015455ec\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_history.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_order_history.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_categorydetail.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_categorydetail.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_cart_item.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_cart_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotline_activity_conversation_detail.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\layout\\hotline_activity_conversation_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_bank_account.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_bank_account.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_preview.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_preview.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_survey.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\activity_survey.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotline_partial_picture_msg_dialog.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\layout\\hotline_partial_picture_msg_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\section.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\section.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\unlock_dialog.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\unlock_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_walk2_pager.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_walk2_pager.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_unlocked_tutorial.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\popup_unlocked_tutorial.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_classic_default_header.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\ptr-lib\\build\\intermediates\\bundles\\default\\res\\layout\\cube_ptr_classic_default_header.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tracking.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\activity_tracking.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotline_partial_start_conversation_frame.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\layout\\hotline_partial_start_conversation_frame.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart_selection.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\activity_cart_selection.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_menu.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_badge2.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\menu_badge2.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotline_listitem_channel.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\layout\\hotline_listitem_channel.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_we_gotit.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\dialog_we_gotit.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_giftcard.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_giftcard.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotline_partial_article_progress.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\layout\\hotline_partial_article_progress.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\4ddb147b6ce58e547940c81cd7cace9c015455ec\\output\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_search_result.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_search_result.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\4ddb147b6ce58e547940c81cd7cace9c015455ec\\output\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\4ddb147b6ce58e547940c81cd7cace9c015455ec\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotline_partial_text_message_frame.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\layout\\hotline_partial_text_message_frame.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cart_old.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_cart_old.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\activity_product.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_category.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_category.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_support_list.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_support_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feed_update_count.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\feed_update_count.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_products.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_products.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_survey_memo.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_survey_memo.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\4ddb147b6ce58e547940c81cd7cace9c015455ec\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_settings_checked.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_settings_checked.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotline_activity_article_detail.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\layout\\hotline_activity_article_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_task.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_task.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotline_partial_conversation_banner_message.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\layout\\hotline_partial_conversation_banner_message.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_frame.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\activity_frame.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_history_details.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_order_history_details.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotline_partial_article_list_empty_frame.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\layout\\hotline_partial_article_list_empty_frame.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_wallet.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_wallet.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_support_item.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_support_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tutorial.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\activity_tutorial.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_settings.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_settings.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_converstion.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_converstion.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotline_listitem_message.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\layout\\hotline_listitem_message.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_address.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_address.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_settings.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\4ddb147b6ce58e547940c81cd7cace9c015455ec\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotline_activity_article_list.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\layout\\hotline_activity_article_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_categories.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_categories.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_notification_launch.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_notification_launch.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_confirm.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\activity_confirm.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_pager.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_order_pager.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_wish.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_wish.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_about.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_help.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\popup_help.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cart.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_history_list.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_history_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cart_selection.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_cart_selection.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_history.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_history.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_cart_item_new.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_cart_item_new.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_tracking.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_tracking.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragmen_splash.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragmen_splash.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotline_listitem_article.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\layout\\hotline_listitem_article.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tutorial.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_tutorial.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tracking.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_tracking.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_history_header.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_history_header.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotline_activity_channel_list.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\layout\\hotline_activity_channel_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotline_activity_category_list.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\layout\\hotline_activity_category_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_product.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_product.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragmen_login.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragmen_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotline_partial_html5_video_progress.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\layout\\hotline_partial_html5_video_progress.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_survey_image.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_survey_image.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_about.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_about.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragmen_signin.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragmen_signin.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_menu.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\item_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_payment.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_payment.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotline_partial_article_voting_frame.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\layout\\hotline_partial_article_voting_frame.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_preferences.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\fragment_preferences.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_notify.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\layout\\dialog_notify.xml"
+    }
+]

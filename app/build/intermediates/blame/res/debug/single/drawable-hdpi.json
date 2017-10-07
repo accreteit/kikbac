@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chevron_right_black_18dp.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-hdpi\\ic_chevron_right_black_18dp.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_stat_onesignal_default.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-hdpi\\ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_reminder.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-hdpi\\ic_reminder.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_check_selected.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-hdpi\\ic_check_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_add_white_36dp.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-hdpi\\ic_add_white_36dp.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tut_1.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-hdpi\\tut_1.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_search_grey_600_24dp.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-hdpi\\ic_search_grey_600_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_add_white_24dp.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-hdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_launcher.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-hdpi\\icon_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_shopping.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-hdpi\\ic_shopping.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_facebook.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-hdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_google_plus_solid.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-hdpi\\ic_google_plus_solid.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_message.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-hdpi\\ic_message.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_check_normal.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-hdpi\\ic_check_normal.png"
+    }
+]

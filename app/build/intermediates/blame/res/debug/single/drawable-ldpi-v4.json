@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\splash.jpg",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-ldpi\\splash.jpg"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\edea688d6110e18f3d786a4edd1b71563c71f37c\\output\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_tut.jpg",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-ldpi\\bg_tut.jpg"
+    }
+]

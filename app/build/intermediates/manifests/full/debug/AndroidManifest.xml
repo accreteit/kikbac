@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.developer.android.quickveggis"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.hardware.camera.autofocus" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.0" /> <!-- [Optional] Hotline needs RECORD_AUDIO permission to record voice messages -->
+    <!-- Can be removed/negated if voice messaging is disabled -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" /> <!-- Keeps the processor from sleeping when a message is received. -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Create a unique permission for your app and use it so only your app can receive your OneSignal messages. -->
+    <permission
+        android:name="com.developer.android.quickveggis.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.developer.android.quickveggis.permission.C2D_MESSAGE" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <!--
+ Use to restore notifications the user hasn't interacted with.
+         They could be missed notifications if the user reboots their device if this isn't in place.
+    -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" /> <!-- START: ShortcutBadger -->
+    <!-- Samsung -->
+    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
+    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" /> <!-- HTC -->
+    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> <!-- Sony -->
+    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
+    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" /> <!-- Apex -->
+    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" /> <!-- Solid -->
+    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" /> <!-- Huawei -->
+    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
+    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" /> <!-- ZUK -->
+    <uses-permission android:name="android.permission.READ_APP_BADGE" /> <!-- OPPO -->
+    <uses-permission android:name="com.oppo.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="com.oppo.launcher.permission.WRITE_SETTINGS" /> <!-- EvMe -->
+    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ" />
+    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE" />
+
+    <application
+        android:name="com.developer.android.quickveggis.App"
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@drawable/icon_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.developer.android.quickveggis.ui.activity.SplashActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.Walk1Activity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.LoginActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.TutorialActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.MainActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.ProfileActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.ConversationActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.PayoutActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.ProductActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.ProductsActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.SurveyActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.TrackingActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.SurveyVideoActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.UnlockedActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.CartSelectionActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.OrderActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.CheckActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.TaskActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.SearchActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.OfflineRedeemActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.CameraActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.SignInActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.SignupActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.CartActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.ConfirmActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.SemiTransparent" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.NotificationActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.SupportsActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme" />
+        <activity
+            android:name="com.developer.android.quickveggis.ui.activity.GroupCameraActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme" />
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <!-- <meta-data android:name="com.onesignal.NotificationOpened.DEFAULT" android:value="DISABLE" /> -->
+        <service
+            android:name="com.developer.android.quickveggis.service.NotificationExtenderBareBonesExample"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.onesignal.NotificationExtender" />
+            </intent-filter>
+        </service>
+
+        <meta-data
+            android:name="AA_DB_NAME"
+            android:value="StevenVeggis.db" />
+        <meta-data
+            android:name="AA_DB_VERSION"
+            android:value="1" />
+        <meta-data
+            android:name="AA_MODELS"
+            android:value="com.developer.android.quickveggis.model.NotificationModel" />
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="2adcac519ed859cb15026aaf281060a4f5e4b3ce" />
+
+        <activity
+            android:name="com.tbruyelle.rxpermissions.ShadowActivity"
+            android:launchMode="singleTop"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+Service handling Google Sign-In user revocation. For apps that do not integrate with
+            Google Sign-In, this service will never be started.
+        -->
+        <service
+            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+            android:exported="true"
+            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+
+        <activity
+            android:name="com.facebook.CustomTabActivity"
+            android:exported="true" >
+        </activity>
+        <activity android:name="com.facebook.CustomTabMainActivity" />
+        <activity
+            android:name="com.freshdesk.hotline.activity.ChannelListActivity"
+            android:theme="@style/Theme.Hotline.SelectedTheme" />
+        <activity
+            android:name="com.freshdesk.hotline.activity.ConversationDetailActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/Theme.Hotline.SelectedTheme"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.freshdesk.hotline.activity.DeeplinkInterstitialActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Hotline.SelectedTheme" />
+        <activity
+            android:name="com.freshdesk.hotline.activity.PictureAttachmentActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/Theme.Hotline.SelectedTheme"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="com.freshdesk.hotline.activity.CategoryListActivity"
+            android:theme="@style/Theme.Hotline.SelectedTheme" />
+        <activity
+            android:name="com.freshdesk.hotline.activity.ArticleListActivity"
+            android:theme="@style/Theme.Hotline.SelectedTheme"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="com.freshdesk.hotline.activity.ArticleDetailActivity"
+            android:theme="@style/Theme.Hotline.SelectedTheme" />
+        <activity
+            android:name="com.freshdesk.hotline.activity.InterstitialActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/Theme.AppCompat" />
+
+        <service android:name="com.freshdesk.hotline.service.HotlineService" />
+
+        <receiver android:name="com.freshdesk.hotline.receiver.HotlineReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.freshdesk.hotline.receiver.HotlineNetworkChangeReceiver" >
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.freshdesk.hotline.receiver.AppUpdateReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+            </intent-filter>
+        </receiver>
+
+        <meta-data
+            android:name="onesignal_app_id"
+            android:value="c06aee22-91c0-447f-bb9b-e40b7c4f67ed" /> <!-- Deprecated - Pulled from OneSignal dashboard. -->
+        <meta-data
+            android:name="onesignal_google_project_number"
+            android:value="str:764736851038" />
+
+        <receiver
+            android:name="com.onesignal.GcmBroadcastReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+
+            <!-- High priority so OneSignal payloads can be filtered from other GCM receivers if filterOtherGCMReceivers is enabled. -->
+            <intent-filter android:priority="999" >
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="com.developer.android.quickveggis" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.onesignal.NotificationOpenedReceiver" />
+
+        <service android:name="com.onesignal.GcmIntentService" /> <!-- For Android O -->
+        <service
+            android:name="com.onesignal.GcmIntentJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+        <service
+            android:name="com.onesignal.SyncJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+        <service android:name="com.onesignal.SyncService" />
+
+        <activity
+            android:name="com.onesignal.PermissionsActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <service android:name="com.onesignal.NotificationRestoreService" /> <!-- For Android O -->
+        <service
+            android:name="com.onesignal.RestoreJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <receiver android:name="com.onesignal.BootUpReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.ACTION_BOOT_COMPLETED" />
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.onesignal.UpgradeReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.measurement.UPLOAD" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="com.developer.android.quickveggis" />
+            </intent-filter>
+        </receiver>
+        <!--
+ Internal (not exported) receiver used by the app to start its own exported services
+             without risk of being spoofed.
+        -->
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
+            android:exported="false" />
+        <!--
+ FirebaseInstanceIdService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.developer.android.quickveggis.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

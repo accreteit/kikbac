@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\AndroidApps\\Quick Veggies\\Veggis\\library\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 73,
+                    "endOffset": 124
+                },
+                "from": {
+                    "file": "D:\\AndroidApps\\Quick Veggies\\Veggis\\library\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 118,
+                        "endColumn": 73,
+                        "endOffset": 187
+                    }
+                }
+            }
+        ]
+    }
+]

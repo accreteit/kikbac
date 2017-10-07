@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\345a1f275cc60f80f524018a317ea862bfd0fa41\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

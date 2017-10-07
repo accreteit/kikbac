@@ -1,0 +1,114 @@
+// Generated code from Butter Knife. Do not modify!
+package com.developer.android.quickveggis.ui.fragments;
+
+import android.view.View;
+import butterknife.ButterKnife.Finder;
+import butterknife.ButterKnife.ViewBinder;
+
+public class ProductFragment$$ViewBinder<T extends com.developer.android.quickveggis.ui.fragments.ProductFragment> implements ViewBinder<T> {
+  @Override public void bind(final Finder finder, final T target, Object source) {
+    View view;
+    view = finder.findRequiredView(source, 2131624273, "field 'blockDescription'");
+    target.blockDescription = view;
+    view = finder.findRequiredView(source, 2131624265, "field 'blockTC'");
+    target.blockTC = view;
+    view = finder.findRequiredView(source, 2131624247, "field 'btnLike'");
+    target.btnLike = finder.castView(view, 2131624247, "field 'btnLike'");
+    view = finder.findRequiredView(source, 2131624262, "field 'btnSlide'");
+    target.btnSlide = finder.castView(view, 2131624262, "field 'btnSlide'");
+    view = finder.findRequiredView(source, 2131624135, "field 'image'");
+    target.image = finder.castView(view, 2131624135, "field 'image'");
+    view = finder.findRequiredView(source, 2131624264, "field 'tabDescription'");
+    target.tabDescription = view;
+    view = finder.findRequiredView(source, 2131624263, "field 'tabTc'");
+    target.tabTc = view;
+    view = finder.findRequiredView(source, 2131624092, "field 'txtTitle'");
+    target.txtTitle = finder.castView(view, 2131624092, "field 'txtTitle'");
+    view = finder.findRequiredView(source, 2131624274, "field 'txtDescription'");
+    target.txtDescription = finder.castView(view, 2131624274, "field 'txtDescription'");
+    view = finder.findRequiredView(source, 2131624248, "field 'txtVarietyAndSize'");
+    target.txtVarietyAndSize = finder.castView(view, 2131624248, "field 'txtVarietyAndSize'");
+    view = finder.findRequiredView(source, 2131624266, "field 'txtValidityRestSec'");
+    target.txtValidityRestSec = finder.castView(view, 2131624266, "field 'txtValidityRestSec'");
+    view = finder.findRequiredView(source, 2131624267, "field 'txtValidity'");
+    target.txtValidity = finder.castView(view, 2131624267, "field 'txtValidity'");
+    view = finder.findRequiredView(source, 2131624268, "field 'txtValidon'");
+    target.txtValidon = finder.castView(view, 2131624268, "field 'txtValidon'");
+    view = finder.findRequiredView(source, 2131624269, "field 'txtQuantity'");
+    target.txtQuantity = finder.castView(view, 2131624269, "field 'txtQuantity'");
+    view = finder.findRequiredView(source, 2131624270, "field 'txtNote'");
+    target.txtNote = finder.castView(view, 2131624270, "field 'txtNote'");
+    view = finder.findRequiredView(source, 2131624271, "field 'lay_storeslist'");
+    target.lay_storeslist = finder.castView(view, 2131624271, "field 'lay_storeslist'");
+    view = finder.findRequiredView(source, 2131624261, "field 'txtMetaTitle'");
+    target.txtMetaTitle = finder.castView(view, 2131624261, "field 'txtMetaTitle'");
+    view = finder.findRequiredView(source, 2131624249, "field 'layout_firstTask'");
+    target.layout_firstTask = finder.castView(view, 2131624249, "field 'layout_firstTask'");
+    view = finder.findRequiredView(source, 2131624253, "field 'layout_secondTask'");
+    target.layout_secondTask = finder.castView(view, 2131624253, "field 'layout_secondTask'");
+    view = finder.findRequiredView(source, 2131624257, "field 'layout_thirdTask'");
+    target.layout_thirdTask = finder.castView(view, 2131624257, "field 'layout_thirdTask'");
+    view = finder.findRequiredView(source, 2131624250, "field 'task1Button'");
+    target.task1Button = finder.castView(view, 2131624250, "field 'task1Button'");
+    view = finder.findRequiredView(source, 2131624254, "field 'task2Button'");
+    target.task2Button = finder.castView(view, 2131624254, "field 'task2Button'");
+    view = finder.findRequiredView(source, 2131624258, "field 'task3Button'");
+    target.task3Button = finder.castView(view, 2131624258, "field 'task3Button'");
+    view = finder.findRequiredView(source, 2131624255, "field 'btnTask2'");
+    target.btnTask2 = finder.castView(view, 2131624255, "field 'btnTask2'");
+    view = finder.findRequiredView(source, 2131624251, "field 'btnTask1'");
+    target.btnTask1 = finder.castView(view, 2131624251, "field 'btnTask1'");
+    view = finder.findRequiredView(source, 2131624259, "field 'btnTask3'");
+    target.btnTask3 = finder.castView(view, 2131624259, "field 'btnTask3'");
+    view = finder.findRequiredView(source, 2131624252, "field 'txtTask1Price'");
+    target.txtTask1Price = finder.castView(view, 2131624252, "field 'txtTask1Price'");
+    view = finder.findRequiredView(source, 2131624256, "field 'txtTask2Price'");
+    target.txtTask2Price = finder.castView(view, 2131624256, "field 'txtTask2Price'");
+    view = finder.findRequiredView(source, 2131624260, "field 'txtTask3Price'");
+    target.txtTask3Price = finder.castView(view, 2131624260, "field 'txtTask3Price'");
+    view = finder.findRequiredView(source, 2131624218, "field 'emptyLayout'");
+    target.emptyLayout = finder.castView(view, 2131624218, "field 'emptyLayout'");
+    view = finder.findRequiredView(source, 2131624246, "field 'mainLayout'");
+    target.mainLayout = finder.castView(view, 2131624246, "field 'mainLayout'");
+    view = finder.findRequiredView(source, 2131624195, "field 'tutorialLayout'");
+    target.tutorialLayout = finder.castView(view, 2131624195, "field 'tutorialLayout'");
+    view = finder.findRequiredView(source, 2131624275, "field 'unlockedPopup'");
+    target.unlockedPopup = finder.castView(view, 2131624275, "field 'unlockedPopup'");
+  }
+
+  @Override public void unbind(T target) {
+    target.blockDescription = null;
+    target.blockTC = null;
+    target.btnLike = null;
+    target.btnSlide = null;
+    target.image = null;
+    target.tabDescription = null;
+    target.tabTc = null;
+    target.txtTitle = null;
+    target.txtDescription = null;
+    target.txtVarietyAndSize = null;
+    target.txtValidityRestSec = null;
+    target.txtValidity = null;
+    target.txtValidon = null;
+    target.txtQuantity = null;
+    target.txtNote = null;
+    target.lay_storeslist = null;
+    target.txtMetaTitle = null;
+    target.layout_firstTask = null;
+    target.layout_secondTask = null;
+    target.layout_thirdTask = null;
+    target.task1Button = null;
+    target.task2Button = null;
+    target.task3Button = null;
+    target.btnTask2 = null;
+    target.btnTask1 = null;
+    target.btnTask3 = null;
+    target.txtTask1Price = null;
+    target.txtTask2Price = null;
+    target.txtTask3Price = null;
+    target.emptyLayout = null;
+    target.mainLayout = null;
+    target.tutorialLayout = null;
+    target.unlockedPopup = null;
+  }
+}

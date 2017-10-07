@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\menu\\hotline_categories_list.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\menu\\hotline_categories_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_product.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\menu\\menu_product.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\menu\\hotline_conversation_detail.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\menu\\hotline_conversation_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\menu\\hotline_articles_list.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\menu\\hotline_articles_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\menu\\hotline_article_detail_list.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\0ec79fe21d3cb460c423bf37d6c73e797a64e7d8\\output\\res\\menu\\hotline_article_detail_list.xml"
+    }
+]

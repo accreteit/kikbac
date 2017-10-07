@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_launcher.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-xxhdpi\\icon_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tut_1.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-xxhdpi\\tut_1.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_search_grey_600_24dp.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search_grey_600_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_reminder.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-xxhdpi\\ic_reminder.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_stat_onesignal_default.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-xxhdpi\\ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_white_36dp.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_white_36dp.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_check_selected.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-xxhdpi\\ic_check_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_chevron_right_black_18dp.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-xxhdpi\\ic_chevron_right_black_18dp.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_check_normal.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-xxhdpi\\ic_check_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_white_24dp.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_shopping.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-xxhdpi\\ic_shopping.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_facebook.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-xxhdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_message.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-xxhdpi\\ic_message.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_google_plus_solid.png",
+        "source": "D:\\AndroidApps\\Quick Veggies\\Veggis\\app\\src\\main\\res\\drawable-xxhdpi\\ic_google_plus_solid.png"
+    }
+]
